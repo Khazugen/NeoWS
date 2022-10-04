@@ -1,6 +1,6 @@
-#Specifikace požadavků
-#pro
-#WikiAsteroid
+# Specifikace požadavků
+# pro
+# WikiAsteroid
 
 
 
