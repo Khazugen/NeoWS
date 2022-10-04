@@ -10,35 +10,6 @@
 ## verze: 1.0
 ## datum vytvoření: 28.9. 2022
 ## autor: Nguyen Michal
-## Obsah
-
-
-## 1.Úvod	
-### 1.1 Účel	
-### 1.2 Konvence dokumentu	
-### 1.3 Pro koho je dokument určený	
-### 1.4 Kontakty	
-## 2. Celkový popis	
-### 2.1 Produkt jako celek	
-### 2.2 Funkce
-### 2.3 Uživatelské skupiny	
-### 2.4 Provozní prostředí
-### 2.5 Uživatelské prostředí
-## 3. Požadavky na rozhraní
-### 3.1 Uživatelská rozhraní
-### 3.2 Hardwarová rozhraní	
-## 4. Vlastnosti systému	
-### 4.1 Vlastnost A – Zobrazit
-### 4.1.1 Popis a důležitost
-### 4.1.2 Vstupy – Akce – Výsledek
-### 4.1.3 Funkční požadavky
-### 4.2 Vlastnost B – Filtrování a vyhledávání
-### 4.2.1 Popis a důležitost
-### 4.2.2 Vstupy – Akce – Výsledek
-### 4.2.3 Funkční požadavky
-
-
-
 
 ## 1.Úvod
 ### 1.1 Účel 
