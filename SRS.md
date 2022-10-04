@@ -40,7 +40,7 @@ Uživatelské prostředí bude okenní aplikace
 Po zapnutí aplikace se uživateli seznam jednotlivých asteroidů, která jsou získaná díky NeoWS API. Na horní liště bude tlačítko pro vyhledávání a filtrování jednotlivých asteroidů.
 
 ### 3.2 Hardwarová rozhraní 
-PC, klávesnice a myš
+N/A
 ## 4. Vlastnosti systému
 
 ### 4.1 Vlastnost A – Hlavní stránka
