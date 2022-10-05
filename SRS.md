@@ -58,6 +58,12 @@ Uživatel bude moct, nastavit seřazování podle jednotlivých vlastností aste
 Zobrazí detailnější informace o asteroidu, než na hlavní stránce
 #### 4.2.2 Vstupy – Akce – Výsledek 
 
+## 5.Nefunkční požadavky
+### 5.1 Výkonnost
+Aplikace by měla naběhnout do 10s od zapnutí. Zálží ještě na rychlosti vašeho zařízení
+
+### 5.2 Spolehlivost
+Jelikož aplikace není moc náročná neměla by padat, ale záleží to také na vašem zařízení.
 
 
 
