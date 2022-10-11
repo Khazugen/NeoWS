@@ -60,5 +60,7 @@ Aplikace bude mít 2 moduly.
 Pokud uživatel nebude připojen k internetu a nebude moct aktualizovat stránku, tak se zobrazí chybová hláška.
 Pokud uživatel aktualizuje data ručně, tak se zobrazí jestli se to provedlo úspěšně nebo ne.
 Barvy budou laděny do tmava jako motiv vesmíru.
+![Untitled (1)](https://user-images.githubusercontent.com/91062219/195085272-bcf5a54e-6633-48a0-b8ea-b12c76c27882.png)
 ### 3.4 Všechny možné toky programu a jejich projevy
+
 
