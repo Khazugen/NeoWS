@@ -5,6 +5,23 @@
 ## datum vytvoření: 06.10. 2022
 ## autor: Nguyen Michal
 ## Obsah
+* 1 [Úvod](#1úvod)
+  * 1.1 [Účel](11-účel)
+  * 1.2 [Konvence dokumentu](#12-konvence-dokumentu)
+  * 1.3 [Pro koho je dokument určený](#13-pro-koho-je-dokument-určený)
+  * 1.4 [Kontakty](#14-kontakty)
+  * 1.5 [Odkazy na ostatní dokumenty](#15-odkazy-na-ostatní-dokumenty)
+* 2 [Scénáře](#2-scénáře)
+  * 2.1 [Všechny reálné způsoby použití](#21-všechny-reálné-způsoby-použití)
+  * 2.2 [Funkce](#22-funkce)
+  * 2.3 [Uživatelské skupiny](23-uživatelské-skupiny)
+  * 2.4 [Vymezení rozsahu](#24-vymezení-rozsahu)
+* 3 [Celková hrubá architektura](#3-celková-hrubá-architektura)
+  * 3.1 [Pracovní tok](#31-pracovní-tok)
+  * 3.2 [Hlavní moduly](32-hlavní-moduly)
+  * 3.3 [Všechny detaily: obrazovky, okna, tisky, chybové zprávy, logování](#33-všechny-detaily-obrazovky-okna-tisky-chybové-zprávy-logování)
+  * 3.4 [Všechny možné toky programu a jejich projevy](#34-all-possible-program-flows-and-their-manifestations)
+  * 3.5 [All agreed principles](#34-všechny-možné-toky-programu-a-jejich-projevy)
 ## 1.Úvod
 ### 1.1 Účel
 Účelem tohoto dokumentu je popsat chování softwaru z hlediska uživatele Databázi knih (dále jenom “WikiAsteroid“).
@@ -41,4 +58,4 @@ Aplikace bude mít 2 moduly.
 ### 3.3 Všechny detaily: obrazovky, okna, tisky, chybové zprávy, logování
 Pokud uživatel nebude připojen k internetu a nebude moct aktualizovat stránku, tak se zobrazí chybová hláška
 ### 3.4 Všechny možné toky programu a jejich projevy
-
+  
