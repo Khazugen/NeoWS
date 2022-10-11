@@ -42,20 +42,22 @@ Produkt je určen jako zdroj informací a ke vzdělávání
 - Zobrazení list všech asteroidů seřazené na základě nějaké valstnosti zadaný uživatelem
 - Filtrování výsledků
 - Zobrazení detailů o jednotlivých objektech
+- aktualizace dat
 ### 2.3 Uživatelské skupiny
 - čtenář (uživatel)
 ### 2.4 Vymezení rozsahu
 Aplikace slouží pouze k četbe a nebude uživateli povolen změnit informace.
 ### 2.5 Na co se nebude klást důraz (výkonnost)
-
+na rychlost aktualizace dat (záleží na množství dat, které nám API poskytne) 
 ## 3. Celková hrubá architektura
 ### 3.1 Pracovní tok
-Po zaponutí aplikace se uživateli zobrazí list asteroidů seřazené podle vzdálenosti od země, pokud bude uživatel připojen k internetu. Poté bude uživatel moct na každý asteroid zmáčknout, aby si zobrazil detailnější informace. Také bude v rohu tlačítko pro změnu seřazení podle vypsaných vlastností.
+Po zaponutí aplikace se uživateli zobrazí aktualizovaný list asteroidů seřazené podle vzdálenosti od země, pokud bude uživatel připojen k internetu. Poté bude uživatel moct na každý asteroid zmáčknout, aby si zobrazil detailnější informace. Také bude v rohu tlačítko pro změnu seřazení podle vypsaných vlastností. Uživatel bude moct ručně atualizovat data nebo se vše atualizuje samo po nějaký čas.
 ### 3.2 Hlavní moduly
 Aplikace bude mít 2 moduly. 
 - 1. hlavní modul pro zobrezení všsch objektů
 - 2. modul pro zobrezení detailů
 ### 3.3 Všechny detaily: obrazovky, okna, tisky, chybové zprávy, logování
-Pokud uživatel nebude připojen k internetu a nebude moct aktualizovat stránku, tak se zobrazí chybová hláška
+Pokud uživatel nebude připojen k internetu a nebude moct aktualizovat stránku, tak se zobrazí chybová hláška.
+Pokud uživatel aktualizuje data ručně, tak se zobrazí jestli se to provedlo úspěšně nebo ne.
 ### 3.4 Všechny možné toky programu a jejich projevy
   
