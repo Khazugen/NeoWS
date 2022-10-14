@@ -62,5 +62,7 @@ Pokud uživatel aktualizuje data ručně, tak se zobrazí jestli se to provedlo 
 Barvy budou laděny do tmava jako motiv vesmíru.
 ![Untitled (1)](https://user-images.githubusercontent.com/91062219/195085272-bcf5a54e-6633-48a0-b8ea-b12c76c27882.png)
 ### 3.4 Všechny možné toky programu a jejich projevy
+První tok bude, když pošleme request na nasu. Druhý pak bude jejich odpověd, kterou následně zpracujem a uložíme do lokalní databáze.![Home - default](https://user-images.githubusercontent.com/91062219/195913635-3ce180ae-a747-4758-bf14-132194c22de6.png)
+
 
 
